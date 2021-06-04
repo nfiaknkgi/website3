@@ -1,0 +1,10 @@
+# basic options
+title: New-awesome-website
+author: Me
+email: your-email@domain.com
+description: A wonderful site about me
+github_username:  nfiaknkgi
+
+# Build settings
+markdown: kramdown
+theme: minima
